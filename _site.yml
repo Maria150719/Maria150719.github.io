@@ -16,9 +16,9 @@ navbar:
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/Maria150719       # CHANGE HERE 
-    - text: "Reading"
+    - text: "CV"
       icon: fa-newspaper-o
-      href: Hainmueller et al.
+      href: cv.html
 output:
   html_document:
     theme: flatly

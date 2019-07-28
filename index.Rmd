@@ -1,5 +1,6 @@
 ---
-title: "Mara's Website"
+title: "Multivariate Statistics by Maria"
 ---
 
 Hello, World!
+

@@ -2,6 +2,6 @@
 title: "About Me"
 ---
 
-- __Name:__ Mara
+- __Name:__ Daria
 - __Ocupation:__ "Instructor"
-- __Hobbies:__ Dancing. 
+- __Hobbies:__ Dancing 

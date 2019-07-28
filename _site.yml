@@ -1,7 +1,7 @@
-name: "mara's-website"
+name: "At Maria's"
 output_dir: "."
 navbar:
-  title: "Multivariate Statistics by Maria"
+  title: "Multivariate statistics by Maria"
   left:
     - text: "Home"
       href: index.html
@@ -21,4 +21,5 @@ navbar:
       href: cv.html
 output:
   html_document:
-    theme: cosmo
+    theme: journal
+    

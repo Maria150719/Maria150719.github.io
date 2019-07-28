@@ -14,8 +14,8 @@ This is a workspace for discussion.
 
 ## Meetings 
 
-Tuesday: 15.00 
-Thursday: 17.00
+Tuesday: 15.00 \
+Thursday: 17.00 
 
 ## Workshops
 
@@ -48,3 +48,9 @@ Each field goal is a success or failure. Notice that we could further divide fai
 
 Each field goal is a success or failure. Notice that we could further divide failures into other categories: too short, long enough but to the left of the uprights, long enough but to the right of the uprights, or some combinations of these. If our interest is only in whether the kick is successful, then differentiating among the modes of failure is not necessary (cited).
 
+# Heckman models
+
+## Reading
+
+1) [Heckman in Stata](https://www.stata.com/manuals13/rheckman.pdf)
+2) <a href="Heckman_example_1.pdf" title=>Example 1</a>	

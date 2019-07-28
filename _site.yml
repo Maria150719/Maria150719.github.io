@@ -9,6 +9,8 @@ navbar:
       href: projects.html  ##### stuff
     - text: "About Me"
       href: about.html
+    - text: "Plans"
+      href: plans.html
   right: 
     - text: "Contact me"
       icon: fa-envelope-o

@@ -4,3 +4,4 @@ title: "Multivariate Statistics by Maria"
 
 Hello, World!
 
+![](catch.jpg)

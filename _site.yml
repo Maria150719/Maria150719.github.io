@@ -21,4 +21,4 @@ navbar:
       href: cv.html
 output:
   html_document:
-    theme: flatly
+    theme: cosmo

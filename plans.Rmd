@@ -53,4 +53,8 @@ Each field goal is a success or failure. Notice that we could further divide fai
 ## Reading
 
 1) [Heckman in Stata](https://www.stata.com/manuals13/rheckman.pdf)
-2) <a href="Heckman_example_1.pdf" title=>Example 1</a>	
+2) <a href="Heckman_example_1.pdf" title=>Example 1</a> <i class="fa fa-camera-retro fa-2x"></i> 
+
+## Lab 
+
+<a href="lab1.R" title=>Lab session 1</a> 

@@ -1,7 +1,7 @@
 name: "mara's-website"
 output_dir: "."
 navbar:
-  title: "Mara's Website"
+  title: "Multivariate Statistics by Maria"
   left:
     - text: "Home"
       href: index.html

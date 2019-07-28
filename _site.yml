@@ -16,6 +16,9 @@ navbar:
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/Maria150719       # CHANGE HERE 
+    - text: "Reading"
+      icon: fa-newspaper-o
+      href: https://github.com/Maria150719   
 output:
   html_document:
     theme: flatly

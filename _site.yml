@@ -18,7 +18,7 @@ navbar:
       href: https://github.com/Maria150719       # CHANGE HERE 
     - text: "Reading"
       icon: fa-newspaper-o
-      href: Hainmueller et al. (2018) 
+      href: Hainmueller et al.
 output:
   html_document:
     theme: flatly

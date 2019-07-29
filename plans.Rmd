@@ -58,8 +58,3 @@ Each field goal is a success or failure. Notice that we could further divide fai
 ## Lab 
 
 1) <a href="lab1.R" title=>Lab session 1</a> 
-
-Заголовок таблицы | Другой заголовок
--------- | --------
-Ячейка 1 | Ячейка 2
-Ячейка 3 | Ячейка 4

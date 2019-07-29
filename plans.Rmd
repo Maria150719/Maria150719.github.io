@@ -46,7 +46,7 @@ Each field goal is a success or failure. Notice that we could further divide fai
 
 ## West 
 
-Each field goal is a success or failure. Notice that we could further divide failures into other categories: too short, long enough but to the left of the uprights, long enough but to the right of the uprights, or some combinations of these. If our interest is only in whether the kick is successful, then differentiating among the modes of failure is not necessary (cited).
+<font color='blue'>Практическое занятие 1 </font>Each field goal is a success or failure. Notice that we could further divide failures into other categories: too short, long enough but to the left of the uprights, long enough but to the right of the uprights, or some combinations of these. If our interest is only in whether the kick is successful, then differentiating among the modes of failure is not necessary (cited).
 
 # Heckman models
 
@@ -57,4 +57,9 @@ Each field goal is a success or failure. Notice that we could further divide fai
 
 ## Lab 
 
-<a href="lab1.R" title=>Lab session 1</a> 
+1) <a href="lab1.R" title=>Lab session 1</a> 
+
+Заголовок таблицы | Другой заголовок
+-------- | --------
+Ячейка 1 | Ячейка 2
+Ячейка 3 | Ячейка 4
